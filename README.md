@@ -1,4 +1,4 @@
-# 9roomthon Challenge
+# goormthon Challenge
 ```
 ✅ 구름톤 챌린지
 📅 2023.08.14.월 ~ 2023.09.10.일
