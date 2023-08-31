@@ -59,4 +59,5 @@
 - [1주차 1/2 학습 일기 (1~3일차)](https://blog.naver.com/zzang_stone_smash/223185371571)
 - [1주차 2/2 학습 일기 (4~5일차)](https://blog.naver.com/zzang_stone_smash/223187290825)  
 - [2주차 1/2 학습 일기 (6~8일차)](https://blog.naver.com/zzang_stone_smash/223191400095)
-- [2주차 2/2 학습 일기 (9~10일차)](https://blog.naver.com/zzang_stone_smash/223193669974)  
+- [2주차 2/2 학습 일기 (9~10일차)](https://blog.naver.com/zzang_stone_smash/223193669974)
+- [3주차 1/2 학습 일기 (11~13일차)](https://blog.naver.com/zzang_stone_smash/223198025174)
