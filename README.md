@@ -4,7 +4,7 @@
 📅 2023.08.14.월 ~ 2023.09.10.일
 ```
 <div align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115%2F9room-java&count_bg=%238CADE3&title_bg=%23477CD3&icon=mixcloud.svg&icon_color=%23E7E7E7&title=9room+java&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung0115%2F9oorm-java&count_bg=%238CADE3&title_bg=%23477CD3&icon=mixcloud.svg&icon_color=%23E7E7E7&title=9oorm+java&edge_flat=false"/></a>
 </div>
 
 ---
